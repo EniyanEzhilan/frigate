@@ -67,5 +67,6 @@ We use [Weblate](https://hosted.weblate.org/projects/frigate-nvr/) to support la
 <img src="https://hosted.weblate.org/widget/frigate-nvr/multi-auto.svg" alt="Translation status" />
 </a>
 
-> Practice note: 2025-08-19 22:20 — branch practice/readme-tweak
+> Practice note (B): 2025-08-20 09:50 — branch conflict/b
+
 
